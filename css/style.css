@@ -170,3 +170,9 @@ footer{
     gap: 20px;
     padding: 50px 0px 0px 0px;
 }
+.col-6{
+    gap: 10px;
+}
+.PPDB .container-sm .col-6{
+    font-size: smaller;
+}
